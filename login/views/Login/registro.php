@@ -48,7 +48,7 @@ include_once '../estructura/nav.php';
     </div>
 
     <?php
-include_once './estructura/footer.php';
+include_once '../estructura/footer.php';
 ?>
 
     <script src="https://www.google.com/recaptcha/api.js" async defer></script>
